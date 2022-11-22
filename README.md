@@ -1,5 +1,7 @@
 # Mission-Nutrition
 
+* Mission Nutrition is a vanilla JS library that allows users to dynamically create FDA Nutrition labels with functions that change the objects/food.
+
 # js-library-aliasad4
 
 ## Landing page: 
